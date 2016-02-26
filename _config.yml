@@ -9,13 +9,13 @@ highlighter: pygments
 # so be sure to set them if your theme uses them.
 #
 title : eyeman
-tagline: Programming BLog
-author : Aimen Aberra
-  name : Aimen Aberra
-  email : eyeman124@gmail.com
-  github : eyeman
-  twitter : aimenaberra
-  feedburner : feedname
+tagline: "Programming Blog"
+author : Aimen
+name : "Aimen Aberra"
+email : eyeman124@gmail.com
+github : eyeman
+twitter : aimenaberra
+feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
